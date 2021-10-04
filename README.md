@@ -1,3 +1,4 @@
+![](https://github.com/shweta-laha/shweta-laha/blob/main/Shweta%20Laha.gif)
 <h1 align="center">Hi 👋, I'm Shweta Laha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
